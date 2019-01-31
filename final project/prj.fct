@@ -1,0 +1,2 @@
+main DSTACK_USAGE:8 DSTACK_LEVEL:8 FILE:"prj.c" LINE:34
+ltoa DSTACK_USAGE:14 DSTACK_LEVEL:22 FILE:"C:\cvavreval\lib\stdlib.lib" LINE:937
